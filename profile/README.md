@@ -1,8 +1,8 @@
-![TikTok Story Viewer](IMAGE_URL)
-
 # [TikTok Story Viewer](https://peekprofile.com)
 
 **[Watch TikTok stories anonymously](https://peekprofile.com) without the creator knowing.** No account. No login. No app installation.
+
+![TikTok Story Viewer](https://github.com/user-attachments/assets/33065294-4bb4-48be-8697-030c68817d52)
 
 ## [TikTok Story Viewer Online](https://peekprofile.com)
 
